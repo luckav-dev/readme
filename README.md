@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Desarrollador+de+FiveM;Apasionado+por+la+programación+y+la+tecnología" alt="Typing SVG - Desarrollador de FiveM; Apasionado por la programación y la tecnología" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Desarrollador+de+FiveM;Apasionado+por+la+programación;y+la+tecnología" alt="Typing SVG - Desarrollador de FiveM; Apasionado por la programación y la tecnología" />
 </p>
 
 <h1 align="center">¡Hola! Soy Luckav 👋</h1>
