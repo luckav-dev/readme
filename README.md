@@ -31,7 +31,7 @@ Mi conjunto de herramientas principales incluye:
   </p>
 
 ---
-
+## MI DISCORD ES https://discord.gg/2qFtaRPHQu
 ## 📊 Mis Estadísticas de GitHub
 
 <p align="center">
